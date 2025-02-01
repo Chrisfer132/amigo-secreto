@@ -33,9 +33,10 @@ O projeto utiliza um **array** para armazenar os amigos adicionados e um **loop 
 │── 📄 README.md   (Este arquivo de documentação)
 ```
 
+## Acesse o site aqui: https://sortear-amigo-secreto-two.vercel.app
+
 ## 📜 Licença
 Este projeto é de código aberto e pode ser usado livremente para aprendizado e aprimoramento.
 
 ---
 Projeto desenvolvido no programa **Oracle Next Education**. 🚀
-
